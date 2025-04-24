@@ -18,8 +18,8 @@
 
 ## Program
 ~~~
-DEVELOPED BY: RAMYA P
-REG NO:212223230168
+DEVELOPED BY: karthick v
+REG NO:212223040086
 M = 9
 def puzzle(a):
     for i in range(M):
